@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+
+\title{Summary of "The Long-Term Effects of Africa’s Slave Trades"}
+\author{Nathan Nunn}
+\date{Published in 2008}
+
+\begin{document}
+
+\maketitle
+
+\section*{Document Link}
+\href{https://www.jstor.org/stable/25098896}{The Long-Term Effects of Africa’s Slave Trades on JSTOR}
+
+\section{Objective}
+The objective of the study is to examine the long-term effects of Africa's slave trades on the continent's current economic underdevelopment.
+
+\section{Reason}
+This research is conducted to understand how historical events, specifically the slave trades, have shaped the economic trajectories of African nations up to the present day.
+
+\section{Data}
+Two types of data are used:
+\begin{itemize}
+    \item Shipping Data: Records the total number of slaves exported from each port or region in Africa, mainly from the Trans-Atlantic Slave Trade Database.
+    \item Ethnic Identity Data: Provides information on the ethnic identities of slaves, helping to trace the origins of slaves shipped from coastal countries.
+\end{itemize}
+
+\section{Results}
+The study finds a significant negative relationship between the number of slaves exported from African countries during the four slave trades between 1400 and 1900 and the current economic performance of these countries. This suggests that the slave trades have had a long-lasting adverse impact on African economic development.
+
+\end{document}
