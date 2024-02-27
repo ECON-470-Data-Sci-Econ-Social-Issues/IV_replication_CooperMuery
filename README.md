@@ -1,6 +1,9 @@
 This program replicates the OLS and 2SLS instrumental variable regression conducted in the article "The Long Term Effects of Africa's Slave Trade".
 Additionally, the graphs within the article are recreated.
 
+References:
+Nunn, N. (2008). The Long-Term Effects of Africa’s Slave Trades. The Quarterly Journal of Economics, 123(1), 139–176.
+
 Chat GPT prompt used: 
 "Could you create a Python program capable of replicating the statistical analysis 
 performed in a study where all the relevant data is contained within a file called 
